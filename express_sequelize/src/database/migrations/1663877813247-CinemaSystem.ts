@@ -216,7 +216,7 @@ export default {
 
   },
 
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  // eslint-disable-next-line @typescript-eslint/no-unused-var
   down: (queryInterface: QueryInterface) => {
     // do nothing
   },
